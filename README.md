@@ -1,4 +1,4 @@
-<h1 align="center">Yash Milind Gosavi</h1>
+<h1 align="center">Yash Gosavi</h1>
 <h4 align="center">Looking for Internship | Java | React </h4>
 
 <div align="center">
